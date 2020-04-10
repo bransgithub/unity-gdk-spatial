@@ -1,0 +1,22 @@
+{
+    "name": "Improbable.Fps",
+    "references": [
+        "Improbable.Gdk.Core",
+        "Improbable.Gdk.GameObjectCreation",
+        "Improbable.Gdk.Generated",
+        "Improbable.Gdk.Mobile",
+        "Improbable.Gdk.PlayerLifecycle",
+        "Improbable.Gdk.QueryBasedInterestHelper",
+        "Unity.Entities",
+        "Unity.Entities.Hybrid",
+        "Unity.Postprocessing.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}

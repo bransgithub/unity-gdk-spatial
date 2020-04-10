@@ -1,0 +1,19 @@
+{
+    "name": "Improbable.Fps.Editor",
+    "references": [
+        "Improbable.Fps",
+        "Improbable.Gdk.Core",
+        "Improbable.Gdk.Generated",
+        "Improbable.Gdk.DeploymentLauncher"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
